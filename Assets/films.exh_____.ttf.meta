@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3ffca07940712464fbb4266d05b7548f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Exocet
+  fontNames:
+  - Exocet
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4eba7e4c730bb7644b601a2b529dc5ba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

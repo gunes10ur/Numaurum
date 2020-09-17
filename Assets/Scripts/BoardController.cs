@@ -32,7 +32,7 @@ public class BoardController : MonoBehaviour
     //public Color tileframeGreen = new Color(160f/255f, 200f/255f, 160f/255f);
     //public Color tileframeGray = new Color(180f/255f, 180f/255f, 180f/255f);
 
-    public Color tileGray = new Color(200f/255f, 200f/255f, 200f/255f);
+    public Color tileGray = new Color(160/255f, 160f/255f, 160f/255f);
     public Color tileBronze = new Color(205f/255f, 127f/255f, 50f/255f);
     public Color tileSilver = new Color(192f/255f, 192f/255f, 192f/255f);
     public Color tileGold = new Color(212f/255f, 175f/255f, 55f/255f);
